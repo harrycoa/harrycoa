@@ -45,8 +45,8 @@ Soy un desarrollador con mas de 5 años  de experiencia comprobada. responsable,
 [![Instagram](https://img.shields.io/badge/Instagram-@harry-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/harrycoa)
 [![Facebook](https://img.shields.io/badge/Facebook-@harry-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/rharryc)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rharryc/)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@harry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rharryc/)
+[![Udemy](https://img.shields.io/badge/Udemy-@harry-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com)
 
 
 ## ⏳⏳⏳⏳⏳⏳⏳⏳⏳⏳⏳⏳⏳⏳⏳⏳
