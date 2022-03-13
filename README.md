@@ -153,28 +153,6 @@ I am a developer with more than 6 years of  experience. I'm creative, responsabl
 </p>
 
 
-[![Twitch Status](https://img.shields.io/twitch/status/rharrycoa?style=social)](https://twitch.com/rharryc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rharrycoa?style=social)](https://twitter.com/rharrycoa)
-![GitHub Followers](https://img.shields.io/github/followers/harrycoa?style=social)
-
-
-<br>
-
-<div style="display: inline_block"><br />
-  <img align="center" alt="liego73-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="liego73-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="liego73-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="liego73-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="liego73-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="liego73-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="liego73-chsarp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="liego73-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-  <img align="center" alt="liego73-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
-  <img align="center" alt="liego73-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="liego73-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="liego73-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
-</div>
-
 <br>
 
 <h4>Frontend</h4>
