@@ -141,4 +141,20 @@ I am a developer with more than 6 years of  experience. I'm creative, responsabl
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrycoa&show_icons=true&locale=en" alt="harrycoa" /></p>
 
+<br>
+
+### Principal Stack
+
+<p>    
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010">  
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+
+[![Twitch Status](https://img.shields.io/twitch/status/rharrycoa?style=social)](https://twitch.com/rharryc)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rharrycoa?style=social)](https://twitter.com/rharrycoa)
+![GitHub Followers](https://img.shields.io/github/followers/harrycoa?style=social)
+
 
