@@ -195,15 +195,4 @@ I am a developer with more than 6 years of  experience. I'm creative, responsabl
 ## Find me at:
 
 
-[![Twitch](https://img.shields.io/badge/Twitch-harry-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/rharryc)
-[![Discord](https://img.shields.io/badge/Discord-harry-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/rharryc#8987)
-</br>
-[![Twitter](https://img.shields.io/badge/Twitter-@harry-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/rharrycoa)
-[![Instagram](https://img.shields.io/badge/Instagram-@harry-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/harrycoa)
-[![Facebook](https://img.shields.io/badge/Facebook-@harry-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/rharryc)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@harry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rharryc/)
-[![Udemy](https://img.shields.io/badge/Udemy-@harry-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com)
-
-
 
