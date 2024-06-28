@@ -92,18 +92,7 @@ I am a developer with more than 6 years of  experience. I'm creative, responsabl
 
 
 
-## Find me at:
-
-
-[![Twitch](https://img.shields.io/badge/Twitch-harry-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/rharryc)
-[![Discord](https://img.shields.io/badge/Discord-harry-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/rharryc#8987)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@harry-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/rharrycoa)
-[![Instagram](https://img.shields.io/badge/Instagram-@harry-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/harrycoa)
-[![Facebook](https://img.shields.io/badge/Facebook-@harry-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/rharryc)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@harry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rharryc/)
-[![Udemy](https://img.shields.io/badge/Udemy-@harry-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com)
 
 
 </br>
@@ -122,14 +111,14 @@ I am a developer with more than 6 years of  experience. I'm creative, responsabl
 
 - 📫 How to reach me **rodol_2000@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qWnkvvIkUhhJFwS0dDR6JwshiNANJaxH/view?usp=sharing](https://drive.google.com/file/d/1qWnkvvIkUhhJFwS0dDR6JwshiNANJaxH/view?usp=sharing)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/harry-coa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harry-coa" height="30" width="40" /></a>
 <a href="https://dev.to/harrycoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harrycoa" height="30" width="40" /></a>
 <a href="https://twitter.com/rharrycoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rharrycoa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rharryc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rharryc" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/248283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="248283" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rodol_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rodol_2000" height="30" width="40" /></a>
 </p>
